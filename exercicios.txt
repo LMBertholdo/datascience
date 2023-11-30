@@ -1,0 +1,78 @@
+Exercício 1: População mundial
+
+Objetivo:
+
+Aprender a importar dados de um arquivo CSV
+Aprender a manipular dados em um DataFrame
+Aprender a plotar um mapa de calor
+Dados:
+
+Arquivo CSV com dados da população mundial por país
+Enunciado:
+
+Importe os dados do arquivo CSV para um DataFrame.
+Crie um mapa de calor da população mundial por país.
+Interprete o mapa de calor.
+
+
+
+
+
+
+
+
+Exercício 2: Produto Interno Bruto (PIB) mundial
+
+Objetivo:
+
+Aprender a importar dados de uma API
+Aprender a manipular dados em um DataFrame
+Aprender a plotar um gráfico de barras
+Dados:
+
+API do Banco Mundial
+Enunciado:
+
+Importe os dados do PIB mundial da API do Banco Mundial.
+Crie um gráfico de barras do PIB mundial por país.
+Interprete o gráfico de barras.
+Exercício 3: Temperatura média global
+
+Objetivo:
+
+Aprender a trabalhar com dados históricos
+Aprender a plotar um gráfico de linha
+Dados:
+
+Arquivo CSV com dados da temperatura média global
+Enunciado:
+
+Importe os dados da temperatura média global para um DataFrame.
+Plote um gráfico de linha da temperatura média global ao longo do tempo.
+Interprete o gráfico de linha.
+Exercício 4: Índice de Desenvolvimento Humano (IDH)
+
+Objetivo:
+
+Aprender a trabalhar com dados de diferentes fontes
+Aprender a combinar dados de diferentes fontes
+Aprender a plotar um mapa temático
+Dados:
+
+Arquivo CSV com dados do IDH por país
+Arquivo CSV com dados da localização dos países
+Enunciado:
+
+Importe os dados do IDH e da localização dos países para DataFrames separados.
+Combine os dois DataFrames em um único DataFrame.
+Plote um mapa temático do IDH.
+Interprete o mapa temático.
+Estes são apenas alguns exemplos de exercícios que podem ser utilizados por iniciantes em Python. É importante escolher exercícios que sejam adequados ao nível de conhecimento do aluno. Os exercícios devem ser desafiadores, mas não impossíveis de serem resolvidos.
+
+Aqui estão algumas dicas para criar exercícios de ciência de dados para iniciantes:
+
+Comece com exercícios simples e vá aumentando a complexidade à medida que o aluno progride.
+Use dados que sejam interessantes e relevantes para o aluno.
+Forneça feedback claro e conciso.
+Incentive o aluno a explorar os dados e a fazer perguntas.
+A prática regular é essencial para o aprendizado de ciência de dados. Os exercícios são uma ótima maneira de praticar as habilidades de Python e de ciência de dados.
